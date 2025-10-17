@@ -196,3 +196,15 @@ th {
         font-size: 0.85rem;
     }
 }
+
+footer{
+    
+    margin-left: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+footer a{
+    font-size: 20px;
+    color: purple;
+}
